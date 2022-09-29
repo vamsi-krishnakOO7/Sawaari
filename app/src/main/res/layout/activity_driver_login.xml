@@ -26,10 +26,10 @@
         android:id="@+id/login"/>
 
     <Button
+        android:id="@+id/registration"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="Registration"
-        android:id="@+id/registration"/>
+        android:text="Registration" />
 
 
 </LinearLayout>
