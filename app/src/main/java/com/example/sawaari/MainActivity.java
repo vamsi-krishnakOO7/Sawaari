@@ -19,8 +19,18 @@ public class MainActivity extends AppCompatActivity {
 
         mDriver.setOnClickListener(new View.OnClickListener() {
             @Override
-            public void onClick(View v) {
+            public void onClick(View view) {
                 Intent intent = new Intent(MainActivity.this, DriverLogin.class );
+                startActivity(intent);
+                finish();
+                return;
+            }
+        });
+
+        mCustomer.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                Intent intent = new Intent(MainActivity.this, CustomerLogin.class );
                 startActivity(intent);
                 finish();
                 return;
