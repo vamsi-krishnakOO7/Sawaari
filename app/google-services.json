@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "996440046450",
+    "project_id": "sawaari-f237c",
+    "storage_bucket": "sawaari-f237c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:996440046450:android:829a5990598e070a6bbbeb",
+        "android_client_info": {
+          "package_name": "com.example.sawaari"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "996440046450-091p1fjvht3pssum0kt3pcur9e3n51vv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.sawaari",
+            "certificate_hash": "3c3423e016af841e27393b395fc886ee56453784"
+          }
+        },
+        {
+          "client_id": "996440046450-5j3au7ig5tc8gavv54641t99lc1vp057.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCT1Yfz1XyjVd-KH2lpLlkg94fGThCo-jU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "996440046450-5j3au7ig5tc8gavv54641t99lc1vp057.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
